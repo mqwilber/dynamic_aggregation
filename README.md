@@ -1,4 +1,4 @@
-This repository contains the scripts necessary to replicated the analyses found in the manuscript *Dynamic parasite aggregation reduces parasite regulation of host populations and the stability of host-parasite interactions*.  The repository is organized as follows
+This repository contains the scripts necessary to replicate the analyses found in the manuscript *Dynamic parasite aggregation reduces parasite regulation of host populations and the stability of host-parasite interactions*.  The repository is organized as follows
 
 `code/`:
 
@@ -22,4 +22,4 @@ This repository contains the scripts necessary to replicated the analyses found 
 
 `results/`: 
 
--`simulated_fs_metrics.pkl`: A pickled files that contains the simulated feasible surface without any interpolation.
+-`simulated_fs_metrics.pkl`: A pickled file that contains the simulated feasible surface without any interpolation.
