@@ -16,10 +16,10 @@ This repository contains the scripts necessary to replicated the analyses found 
 
 -`dynamic_top_down_functions.py`: A variety of different functions used in the analyses.
 
-`docs`: 
+`docs/`: 
     
 -`dynamic_top_down_manuscript.pdf`: A copy of the manuscript.
 
-`results`: 
+`results/`: 
 
 -`simulated_fs_metrics.pkl`: A pickled files that contains the simulated feasible surface without any interpolation.
